@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title> This is my page! </title>
+	</head>
+	<body>
+		<h1> My Page </h1>
+		<h2> We're on a road to NOWHERE </h2>
+		<img src=http://i.imgur.com/I3ToluX.jpg>
+		<hr>
+		<p> My name is what? My name is who? <br> My name is Scott </p>
+	</body>
+</html>
+
+
+<!-- <br> Line Break
+<hr> Horizontal Rule
+<img> Image -->
